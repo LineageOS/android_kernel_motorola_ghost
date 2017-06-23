@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da87b5cf_304b0d5b",
+        "filename": "drivers/staging/prima_mmi/CORE/SME/src/csr/csrUtil.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2479,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2017-06-23T01:30:52Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this just be zero initialized instead?",
+      "range": {
+        "startLine": 2479,
+        "startChar": 16,
+        "endLine": 2479,
+        "endChar": 51
+      },
+      "revId": "94ca6fe66deb7747631819aa0a4a107632b1e96a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
